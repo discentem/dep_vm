@@ -1,0 +1,15 @@
+{
+    "fusion_path": "",
+    "source_dmg": "osx_updated_180125-10.13.3-17D47.apfs.dmg",
+    "output_dir": ".",
+    "output_name": "dep-hs-company",
+    "cache": false,
+    "mem_size": 4096,
+    "disk_type": 0,
+    "bridged": false,
+    "mac_address": "",
+    "enable3d": false,
+    "vnc_port": 5901,
+    "vnc_passwd": "",
+    "hw_model": "MacBookAir7,2",
+}
