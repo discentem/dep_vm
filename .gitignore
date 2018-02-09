@@ -1,2 +1,3 @@
 *.vmwarevm/*
 *.dmg
+.DS_Store
