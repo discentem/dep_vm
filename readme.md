@@ -14,4 +14,6 @@ Victor Vrantchan of the Micromdm project: https://micromdm.io/blog/troubleshoot-
 
 ## Basic Usage
 
-`vfuse -t vm_template.json -s <serial number> --snapshot`
+1. Download a macOS installer (probably 10.13.3) from the Appstore
+2. Build a never-booted macOS dmg with Autodmg
+3. Run `vfuse -i <path/to/dmg> -t vm_template.json -s <serial number> --snapshot`
