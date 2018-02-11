@@ -1,11 +1,17 @@
+## Summary
+This repo provides a basic template for testing a DEP workflow in a virtual machine.
+
 ## Credits
 
 Victor Vrantchan of the Micromdm project: https://micromdm.io/blog/troubleshoot-dep/
 
 ## Requirements
+- [VMWare Fusion](https://www.vmware.com/products/fusion.html)
+- [Autodmg](https://github.com/MagerValp/AutoDMG)
+- [vfuse](https://github.com/chilcote/vfuse)
+- [DEP](https://www.apple.com/business/dep/)/[MDM](https://support.apple.com/business#gallery-toggletabs-view-0-tab-3)
+- a serial number of a computer that's in your DEP and assigned to an MDM
 
-- Autodmg
-  - DMG of macOS installer
-- vfuse
-- DEP/MDM set up
-- serial number of computer in dep
+## Basic Usage
+
+`vfuse -t vm_template.json -s <serial number> --snapshot`
