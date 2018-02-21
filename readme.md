@@ -1,9 +1,9 @@
 ## Summary
 This repo provides a basic template for testing a DEP workflow in a virtual machine.
 
-## Credits/Places to go for more info
+## Credits/More Info
 
-Victor Vrantchan and Owen Pragel. See: https://micromdm.io/blog/troubleshoot-dep/
+To get more information about this process see https://micromdm.io/blog/troubleshoot-dep/. 100% credits to Victor Vrantchan and Owen Pragel. 
 
 ## Requirements
 - [VMWare Fusion](https://www.vmware.com/products/fusion.html)
