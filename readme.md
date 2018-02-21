@@ -1,7 +1,7 @@
 ## Summary
 This repo provides a basic template for testing a DEP workflow in a virtual machine.
 
-## Credits
+## Credits/Places to go for more info
 
 Victor Vrantchan and Owen Pragel. See: https://micromdm.io/blog/troubleshoot-dep/
 
